@@ -42,14 +42,7 @@
 
 ---
 
-### 🐍 My GitHub Activity
-<div align="center">
 
-![snake gif](https://github.com/14miguel/14miguel/blob/output/snake.svg)
-
-</div>
-
----
-
-### 💬 Quote
-> “Code smart, build real, and never stop optimizing.”
+### 
+> “Never was anything great achieved without danger.”
+― Niccolo Machiavelli”
