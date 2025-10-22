@@ -1,10 +1,7 @@
 <h1 align="center">About Me</h1>
 
  **Computer Engineering student at FEUP**.  
-
-<h1 align="center">About Me</h1>
-
-**Computer Engineering student at FEUP.**
+ 
 
 ```javascript
 const name = 'Miguel';
@@ -23,6 +20,8 @@ engineer.sports = ['Gym 🏋️‍♂️', 'Football ⚽', 'Combat Sports 🥋',
 engineer.languages = ['C', 'C++', 'Python', 'Java', 'Haskell', 'JavaScript', 'HTML', 'PHP', 'SQL'];
 engineer.motto = "Code smart, train hard, and keep improving 🚀";
 
+
+```
 
 ---
 #### Programming Languages
