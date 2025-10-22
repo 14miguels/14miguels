@@ -37,6 +37,33 @@
 <div align="center">
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=14miguel&theme=tokyonight&no-frame=true&margin-w=10&column=4&title=Commits,Repositories,PullRequest,Issues)
+name: Generate Snake
+
+on:
+  schedule: # corre todos os dias à meia-noite
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v3
+
+      - name: Generate Snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: 14miguels
+          outputs: dist/snake.svg
+
+      - name: Push Snake animation to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 </div>
 
