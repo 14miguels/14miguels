@@ -1,8 +1,7 @@
-<h1 align="center">Hey there 👋, I'm Miguel</h1>
+<h1 align="center">About Me</h1>
 
-🎓 Studying **Informatics and Computing Engineering** at **FEUP**  
-💡 Interested in **software engineering**, **optimization**, **automation**, and **algorithms**  
-🚀 Passionate about building efficient systems that connect logic and creativity  
+🎓 **Computer Engineering student at FEUP**.  
+
 
 ---
 
