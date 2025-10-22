@@ -36,7 +36,7 @@
 ### 🏆 GitHub Trophies (Highlights Only)
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=14miguels&theme=tokyonight&no-frame=true&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=14miguels&theme=tokyonight&no-frame=true&margin-w=4)
 
 </div>
 
