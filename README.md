@@ -2,8 +2,12 @@
 
  **Computer Engineering student at FEUP**.  
 
+<h1 align="center">About Me</h1>
 
- const name = 'Miguel';
+**Computer Engineering student at FEUP.**
+
+```javascript
+const name = 'Miguel';
 
 const engineer = new Engineer(name, 'FEUP');
 
