@@ -1,10 +1,10 @@
 <h1 align="center">About Me</h1>
 
-🎓 **Computer Engineering student at FEUP**.  
+ **Computer Engineering student at FEUP**.  
 
 
 ---
-#### 🖥️ Programming Languages
+#### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
