@@ -3,6 +3,23 @@
  **Computer Engineering student at FEUP**.  
 
 
+ const name = 'Miguel';
+
+const engineer = new Engineer(name, 'FEUP');
+
+while (engineer.isCoding()) {
+  engineer.listenTo('lofi beats 🎧');
+  engineer.optimizeProcesses();
+  engineer.drink('protein shake 💪');
+  engineer.debugLife();
+}
+
+// Fun facts 💡
+engineer.sports = ['Gym 🏋️‍♂️', 'Football ⚽', 'Combat Sports 🥋', 'Surf 🏄‍♂️', 'Sailing ⛵'];
+engineer.languages = ['C', 'C++', 'Python', 'Java', 'Haskell', 'JavaScript', 'HTML', 'PHP', 'SQL'];
+engineer.motto = "Code smart, train hard, and keep improving 🚀";
+
+
 ---
 #### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
