@@ -18,8 +18,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 
 ---
 
@@ -30,19 +28,19 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+
+### 🏆 GitHub Trophies (Highlights Only)
 <div align="center">
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=14miguel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=14miguel&layout=compact&theme=tokyonight&hide_border=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=14miguel&theme=tokyonight&no-frame=true&margin-w=10&column=4&title=Commits,Repositories,PullRequest,Issues)
 
 </div>
 
 ---
-
 
 ### 🐍 My GitHub Activity
 <div align="center">
