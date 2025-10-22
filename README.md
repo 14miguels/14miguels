@@ -1,4 +1,3 @@
-<h1 align="center">Hey there 👋, I'm Miguel</h1>
 
 🎓 Studying **Informatics and Computing Engineering** at **FEUP**  
 💡 Interested in **software engineering**, **optimization**, and **automation**  
