@@ -43,14 +43,6 @@
 
 ---
 
-### 🏆 GitHub Trophies (Highlights Only)
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=14miguel&theme=tokyonight&no-frame=true&margin-w=10&column=4&title=Commits,Repositories,PullRequest,Issues)
-
-</div>
-
----
 
 ### 🐍 My GitHub Activity
 <div align="center">
