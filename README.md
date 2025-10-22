@@ -3,22 +3,46 @@
  **Computer Engineering student at FEUP**.  
  
 
-```javascript
-const name = 'Miguel';
+```cpp
 
-const engineer = new Engineer(name, 'FEUP');
+#include <iostream>
+#include <vector>
+#include <string>
+using namespace std;
 
-while (engineer.isCoding()) {
-  engineer.listenTo('lofi beats 🎧');
-  engineer.optimizeProcesses();
-  engineer.drink('protein shake 💪');
-  engineer.debugLife();
+class Engineer {
+public:
+    string name = "Miguel";
+    string university = "FEUP";
+    vector<string> sports = {"Gym 🏋️‍♂️", "Football ⚽", "Combat Sports 🥋", "Surf 🏄‍♂️", "Sailing ⛵"};
+    vector<string> languages = {"C", "C++", "Python", "Java", "Haskell", "JavaScript", "HTML", "PHP", "SQL"};
+    string fun_fact = "wine enthusiast";
+    string motto = "One day or Day one";
+
+
+    void dailyRoutine() {
+        while (isCoding()) {
+            listenTo("Jazz");
+            optimizeProcesses();
+            drink("protein shake 💪");
+            debugLife();
+        }
+    }
+
+private:
+    bool isCoding() { return true; }
+    void listenTo(string music) { cout << "Listening to " << music << endl; }
+    void optimizeProcesses() { cout << "Optimizing processes ⚙️" << endl; }
+    void drink(string fuel) { cout << "Drinking " << fuel << endl; }
+    void debugLife() { cout << "Debugging life 🧠" << endl; }
+};
+
+int main() {
+    Engineer miguel;
+    miguel.dailyRoutine();
+    cout << "Motto: " << miguel.motto << endl;
+    return 0;
 }
-
-// Fun facts 💡
-engineer.sports = ['Gym 🏋️‍♂️', 'Football ⚽', 'Combat Sports 🥋', 'Surf 🏄‍♂️', 'Sailing ⛵'];
-engineer.languages = ['C', 'C++', 'Python', 'Java', 'Haskell', 'JavaScript', 'HTML', 'PHP', 'SQL'];
-engineer.motto = "Code smart, train hard, and keep improving 🚀";
 
 
 ```
