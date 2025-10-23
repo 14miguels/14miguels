@@ -1,13 +1,13 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&width=850&lines=Hey+there!+I'm+Miguel+👋;Computer+Engineering+student+at+FEUP;Optimization+and+Automation+Enthusiast;Always+learning+new+things+🚀;Building+efficient+systems+that+connect+logic+and+creativity.">
+  </a>
+</p>
+
 <h1 align="center">About Me</h1>
 
  **Computer Engineering student at FEUP**.  
  
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&multiline=true&repeat=false&width=800&lines=Hey+there!+I'm+Miguel+👋;Computer+Engineering+student+at+FEUP;Optimization+and+Automation+Enthusiast;Always+learning+new+things+🚀;Building+efficient+systems+that+connect+logic+and+creativity.">
-  </a>
-</p>
 
 ```cpp
 
