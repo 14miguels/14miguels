@@ -55,11 +55,9 @@ int main() {
   <img src="https://github-readme-streak-stats.herokuapp.com?user=14miguels&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-
-![snake gif](https://github.com/14miguels/14miguels/blob/output/snake-dark.svg)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/14miguels/14miguels/output/snake-dark.svg" alt="Snake animation"/>
+</p>
 
 
 ---
