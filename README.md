@@ -6,11 +6,9 @@
 
 <h1 align="center">About Me</h1>
 
- **Computer Engineering student at FEUP**.  
- 
+**Computer Engineering student at FEUP**  
 
 ```cpp
-
 #include <iostream>
 #include <vector>
 #include <string>
@@ -22,13 +20,12 @@ public:
     string university = "FEUP";
     vector<string> sports = {"Gym 🏋️‍♂️", "Football ⚽", "Combat Sports 🥋", "Surf 🏄‍♂️", "Sailing ⛵"};
     vector<string> languages = {"C", "C++", "Python", "Java", "Haskell", "JavaScript", "HTML", "PHP", "SQL"};
-    string fun_fact = "wine enthusiast";
+    string fun_fact = "Wine enthusiast 🍷";
     string motto = "One day or Day one";
-
 
     void dailyRoutine() {
         while (isCoding()) {
-            listenTo("Jazz");
+            listenTo("Jazz 🎷");
             optimizeProcesses();
             drink("protein shake 💪");
             debugLife();
@@ -49,7 +46,6 @@ int main() {
     cout << "Motto: " << miguel.motto << endl;
     return 0;
 }
-
 
 ```
 
