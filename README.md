@@ -47,7 +47,6 @@ int main() {
 
 ```
 
-### 🐍 My GitHub Activity
 <div align="center">
 
 ![snake gif](https://github.com/14miguels/14miguels/blob/output/snake.svg)
