@@ -47,6 +47,14 @@ int main() {
 
 ```
 
+### 🐍 My GitHub Activity
+<div align="center">
+
+![snake gif](https://github.com/14miguels/14miguels/blob/output/snake.svg)
+
+</div>
+
+
 ---
 #### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
