@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Miguel+👋;Computer+Engineering+student+at+FEUP;Optimization+%26+Automation+Enthusiast;Always+learning+new+things+🚀;Building+efficient+systems+that+connect+logic+and+creativity.">
+  </a>
+</p>
+
+
 <h1 align="center">About Me</h1>
 
  **Computer Engineering student at FEUP**.  
@@ -46,6 +53,10 @@ int main() {
 
 
 ```
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=14miguels&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub Streak" />
+</p>
 
 <div align="center">
 
