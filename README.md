@@ -80,7 +80,7 @@ int main() {
 ---
 
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=14miguels&theme=tokyonight&no-frame=true&margin-w=10&title=Followers,Commits,Repositories" alt="GitHub Trophies" />
 </p>
 
