@@ -4,6 +4,8 @@
   </a>
 </p>
 
+
+
 <h1 align="center">About Me</h1>
 
 **Computer Engineering student at FEUP**  
@@ -55,7 +57,7 @@ int main() {
 
 <div align="center">
 
-![snake gif](https://github.com/14miguels/14miguels/blob/output/snake.svg)
+![snake gif](https://github.com/14miguels/14miguels/blob/output/snake-dark.svg)
 
 </div>
 
