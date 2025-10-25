@@ -87,7 +87,7 @@ int main() {
 
 ---
 
-<p> [![trophy](https://github-profile-trophy.vercel.app/?username=14miguels&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&title=Followers,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy) </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=14miguels&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&title=Followers,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
