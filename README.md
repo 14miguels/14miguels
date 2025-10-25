@@ -65,8 +65,8 @@ int main() {
 </p>
 
 
-#### Programming Languages
-## 🧰 Linguagens
+
+## Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,haskell,js,html,php,sqlite,mysql" />
 </p>
