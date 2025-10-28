@@ -37,7 +37,7 @@ int main() {
 
 ```
 
-![GitHub Streak](https://streak-stats.demolab.com?user=14miguels&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF)
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=14miguels&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub Streak" />
 
 
 <p align="center">
