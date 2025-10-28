@@ -3,11 +3,6 @@
 **Computer Engineering student at FEUP**  
 
 ```cpp
-#include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
-
 class Engineer {
 public:
     string name = "Miguel";
@@ -37,7 +32,6 @@ private:
 int main() {
     Engineer miguel;
     miguel.dailyRoutine();
-    cout << "Motto: " << miguel.motto << endl;
     return 0;
 }
 
