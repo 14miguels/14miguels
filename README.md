@@ -36,9 +36,7 @@ int main() {
 }
 
 ```
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=14miguels&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" alt="GitHub Streak" />
-</p>
+<img src="https://streak-stats.demolab.com?user=14miguels&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF&date=2025-11-06" alt="GitHub Streak" />
 
 
 
