@@ -9,7 +9,6 @@ public:
     string university = "FEUP";
     vector<string> sports = {"Gym 🏋️‍♂️", "Football ⚽", "Combat Sports 🥋", "Surf 🏄‍♂️", "Sailing ⛵"};
     vector<string> languages = {"C", "C++", "Python", "Java", "Haskell", "JavaScript", "HTML", "PHP", "SQL"};
-    string fun_fact = "Wine enthusiast 🍷";
     string motto = "One day or Day one";
 
     void dailyRoutine() {
