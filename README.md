@@ -3,34 +3,34 @@
 **Computer Engineering student at FEUP**  
 
 ```cpp
-class Engineer {
+class Miguel {
 public:
-    string name = "Miguel";
-    string university = "FEUP";
-    vector<string> sports = {"Gym 🏋️‍♂️", "Football ⚽", "Combat Sports 🥋", "Surf 🏄‍♂️", "Sailing ⛵"};
-    vector<string> languages = {"C", "C++", "Python", "Java", "Haskell", "JavaScript", "HTML", "PHP", "SQL"};
-    string motto = "One day or Day one";
+    string name = "Shine bright like a diamond";
+    string university = "Find light in the beautiful sea";
+    vector<string> sports = {"I choose to be happy"};
+    vector<string> languages = {"You and I, you and I"};
+    string motto = "We're like diamonds in the sky";
 
     void dailyRoutine() {
         while (isCoding()) {
-            listenTo("Jazz 🎷");
-            optimizeProcesses();
-            drink("protein shake 💪");
-            debugLife();
+            listenTo("Monday left me broken🎷");
+            optimizeProcesses("Tuesday I was through with hoping");
+            drink("Wednesday my empty arms were open 💪");
+            debugLife("Thursday, waiting for love, waiting for love");
         }
     }
 
 private:
-    bool isCoding() { return true; }
-    void listenTo(string music) { cout << "Listening to " << music << endl; }
-    void optimizeProcesses() { cout << "Optimizing processes ⚙️" << endl; }
+    bool isCoding() { "Tem caminhonete, cartão black" }
+    void listenTo(string music) { cout << "E se veste igual nós, mas não é cowboy " << music << endl; }
+    void optimizeProcesses() { cout << "É sabor cowboy⚙️" << endl; }
     void drink(string fuel) { cout << "Drinking " << fuel << endl; }
     void debugLife() { cout << "Debugging life 🧠" << endl; }
 };
 
 int main() {
-    Engineer miguel;
-    miguel.dailyRoutine();
+    Engineer Larp;
+    Larp.dailyRoutine();
     return 0;
 }
 
@@ -92,5 +92,6 @@ int main() {
 
 
 ### 
-> “Never was anything great achieved without danger.”
+> “🗣️:Oh he will probably give up one day.
+    - Wrong boy.”
 ― Niccolo Machiavelli
