@@ -2,41 +2,6 @@
 
 **Computer Engineering student at FEUP**  
 
-```cpp
-class Miguel {
-public:
-    string name = "Shine bright like a diamond";
-    string university = "Find light in the beautiful sea";
-    vector<string> sports = {"I choose to be happy"};
-    vector<string> languages = {"You and I, you and I"};
-    string motto = "We're like diamonds in the sky";
-
-    void dailyRoutine() {
-        while (isCoding()) {
-            listenTo("Monday left me broken🎷");
-            optimizeProcesses("Tuesday I was through with hoping");
-            drink("Wednesday my empty arms were open 💪");
-            debugLife("Thursday, waiting for love, waiting for love");
-        }
-    }
-
-private:
-    bool isCoding() { "Tem caminhonete, cartão black" }
-    void listenTo(string music) { cout << "E se veste igual nós, mas não é cowboy " << music << endl; }
-    void optimizeProcesses() { cout << "É sabor cowboy⚙️" << endl; }
-    void drink(string fuel) { cout << "Drinking " << fuel << endl; }
-    void debugLife() { cout << "Debugging life 🧠" << endl; }
-};
-
-int main() {
-    Engineer Larp;
-    Larp.dailyRoutine();
-    return 0;
-}
-
-```
-
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=14miguels&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF)
@@ -92,6 +57,3 @@ int main() {
 
 
 ### 
-> “🗣️:Oh he will probably give up one day.
-    - Wrong boy.”
-― Niccolo Machiavelli
