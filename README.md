@@ -1,7 +1,3 @@
-<h1 align="center">About Me</h1>
-
-**Computer Engineering student at FEUP**  
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=14miguels&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF)
